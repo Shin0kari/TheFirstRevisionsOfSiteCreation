@@ -5,7 +5,7 @@ layout: page.njk
 
 ## ФИО: Каспер      |
 ##      Дмитрий     |
-##      Валериевич  |
+##      Валериевич  | 
 ***
 ![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/863986652025211690/F1694E703BBFDD89E987AA762760915A639D5B66/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 ***
